@@ -26,7 +26,7 @@
 ![Technical Stack](https://capsule-render.vercel.app/api?type=rect&color=0:A8A8A8,50:6B6B6B,100:A8A8A8&height=50&text=▶%20TECHNICAL%20STACK&fontColor=FF1493&fontSize=28&fontAlign=20&fontAlignY=50&desc=&descAlign=50&descAlignY=60)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,nodejs,express,postgres,mongodb,docker,kubernetes,aws,azure,gcp,git,github&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,nodejs,express,postgresql,mongodb,docker,kubernetes,aws,azure,gcp,git,github&perline=8&theme=dark" />
 </p>
 
 <p align="center">
