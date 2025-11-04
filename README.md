@@ -29,12 +29,6 @@
   <img src="https://skillicons.dev/icons?i=react,gatsby,js,html,css,nodejs,express,postgresql,mongodb,docker,gcp,git,github&perline=8&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&pause=999999&color=39FF14&center=true&vCenter=true&width=800&lines=Frontend%3A+React.js+•+Gatsby+•+JavaScript%2FES6%2B+•+HTML5+•+CSS3" />
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&pause=999999&color=FF1493&center=true&vCenter=true&width=800&lines=Backend%3A+Node.js+•+Express+•+RESTful+APIs+•+SQL+%26+NoSQL+Databases" />
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&pause=999999&color=39FF14&center=true&vCenter=true&width=800&lines=DevOps%3A+Docker+•+GCP+•+GitHub+Actions+•+CI%2FCD" />
-</p>
-
 ---
 
 ![Current Projects](https://capsule-render.vercel.app/api?type=rect&color=0:A8A8A8,50:6B6B6B,100:A8A8A8&height=50&text=▶%20CURRENT%20PROJECTS&fontColor=39FF14&fontSize=28&fontAlign=20&fontAlignY=50&desc=&descAlign=50&descAlignY=60)
