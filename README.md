@@ -26,13 +26,13 @@
 ![Technical Stack](https://capsule-render.vercel.app/api?type=rect&color=0:A8A8A8,50:6B6B6B,100:A8A8A8&height=50&text=▶%20TECHNICAL%20STACK&fontColor=FF1493&fontSize=28&fontAlign=20&fontAlignY=50&desc=&descAlign=50&descAlignY=60)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,nodejs,express,postgresql,mongodb,docker,kubernetes,aws,azure,gcp,git,github&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,gatsby,js,html,css,nodejs,express,postgresql,mongodb,docker,aws,azure,gcp,git,github&perline=8&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&pause=999999&color=39FF14&center=true&vCenter=true&width=800&lines=Frontend%3A+React.js+•+Next.js+•+JavaScript%2FES6%2B+•+HTML5+•+CSS3" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&pause=999999&color=39FF14&center=true&vCenter=true&width=800&lines=Frontend%3A+React.js+•+Gatsby+•+JavaScript%2FES6%2B+•+HTML5+•+CSS3" />
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&pause=999999&color=FF1493&center=true&vCenter=true&width=800&lines=Backend%3A+Node.js+•+Express+•+RESTful+APIs+•+SQL+%26+NoSQL+Databases" />
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&pause=999999&color=39FF14&center=true&vCenter=true&width=800&lines=DevOps%3A+Docker+•+Kubernetes+•+AWS%2FAzure%2FGCP+•+GitHub+Actions+•+CI%2FCD" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&pause=999999&color=39FF14&center=true&vCenter=true&width=800&lines=DevOps%3A+Docker+•+AWS%2FAzure%2FGCP+•+GitHub+Actions+•+CI%2FCD" />
 </p>
 
 ---
