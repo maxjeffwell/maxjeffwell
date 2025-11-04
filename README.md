@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&pause=999999&color=FFFFFF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Full-stack+developer+based+in+Florida%2C+specializing+in+building+scalable+web+applications;with+modern+JavaScript+technologies.+Currently+seeking+opportunities;to+contribute+to+innovative+engineering+teams." />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Full-stack%20developer%20based%20in%20Florida,%20specializing%20in%20building%20scalable%20web%20applications&fontSize=16&fontColor=FFFFFF&fontAlign=50&fontAlignY=30&desc=with%20modern%20JavaScript%20technologies.%20Currently%20seeking%20opportunities%20to%20contribute%20to%20innovative%20engineering%20teams.&descSize=16&descAlign=50&descAlignY=70&descColor=FFFFFF" />
 </p>
 
 ---
