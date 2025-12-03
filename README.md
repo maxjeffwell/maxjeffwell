@@ -51,7 +51,7 @@
 ![GitHub Activity](https://capsule-render.vercel.app/api?type=rect&color=0:A8A8A8,50:6B6B6B,100:A8A8A8&height=50&text=▶%20GITHUB%20ACTIVITY&fontColor=FF1493&fontSize=28&fontAlign=20&fontAlignY=50&desc=&descAlign=50&descAlignY=60)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxjeffwell&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=39FF14&icon_color=FF1493&text_color=FFFFFF&bg_color=0D1117" />
+  <img src="https://github-readme-stats-jeff-maxwells-projects.vercel.app/api?username=maxjeffwell&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=39FF14&icon_color=FF1493&text_color=FFFFFF&bg_color=0D1117" />
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxjeffwell&layout=compact&theme=dark&hide_border=true&title_color=FF1493&text_color=FFFFFF&bg_color=0D1117" />
+  <img src="https://github-readme-stats-jeff-maxwells-projects.vercel.app/api/top-langs/?username=maxjeffwell&layout=compact&theme=dark&hide_border=true&title_color=FF1493&text_color=FFFFFF&bg_color=0D1117" />
 </p>
 
 ---
