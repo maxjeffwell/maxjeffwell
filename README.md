@@ -2,7 +2,7 @@
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:39FF14,30:00FF41,70:0080FF,100:FF1493&text=JEFF%20MAXWELL&fontSize=50&fontColor=gradient&customFontColor=0:FFFFFF,100:4D4D4D&fontAlignY=35&desc=Full-Stack%20Developer&descSize=20&descAlignY=55&descColor=8B8B8D)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=32&pause=1000&color=39FF14,FF1493,39FF14,FF1493&multiline=false&width=800&height=80&lines=React+%E2%9A%9B+Node.js+%E2%9A%9B+Cloud+Infrastructure;Building+Scalable+Web+Applications+%F0%9F%9A%80;Open+to+New+Opportunities+%E2%9A%A1)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=32&pause=1000&color=FF1493&multiline=false&width=800&height=80&lines=React+%E2%9A%9B+Node.js+%E2%9A%9B+Cloud+Infrastructure;Building+Scalable+Web+Applications+%F0%9F%9A%80;Open+to+New+Opportunities+%E2%9A%A1)
 
 </div>
 
